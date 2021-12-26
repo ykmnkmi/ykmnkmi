@@ -7,6 +7,4 @@
 - 📧 How to reach me: [amajisenpai@gmail.com](mailto:amajisenpai@gmail.com)
 - ☕ [BuyMeACoffee](https://www.buymeacoffee.com/ykmnkmi)
 
-![](https://komarev.com/ghpvc/?username=ykmnkmi)  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ykmnkmi&count_private=true&show_icons=true)](https://github.com/ykmnkmi)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykmnkmi)](https://github.com/ykmnkmi)
